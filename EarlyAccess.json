@@ -15,7 +15,10 @@
       ]
     }	
   ],
-  "SteamUsers" : [
-    76561198122313070
+  "SteamUsers": [
+    {
+      "SteamUserID": 76561198122313070,
+      "SteamUserName": "eastern"
+    }    
   ]	
 }

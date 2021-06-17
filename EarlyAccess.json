@@ -20,11 +20,18 @@
       "GainAccessExpIndexs": [
         1
       ]
+    },
+    {
+      "Enabled": true,
+      "GainAccessTier": "TierD",
+      "GainAccessExpIndexs": [
+        2
+      ]
     }
   ],
   "SteamUsers": [
     {
-      "Enabled": true,
+      "Enabled": false,
       "SteamUserID": 76561198122313070,
       "SteamUserName": "eastern"
     }

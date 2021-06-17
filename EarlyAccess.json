@@ -21,5 +21,6 @@
       "SteamUserID": 76561198122313070,
       "SteamUserName": "eastern"
     }
-  ]
+  ],
+  "TargetVersion": "1.1.0"
 }

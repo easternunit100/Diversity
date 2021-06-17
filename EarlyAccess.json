@@ -1,24 +1,25 @@
 {
-  "Access" : [
+  "Access": [
     {
-      "Enabled" : true,
-      "GainAccessTier" : "TierE",
-      "GainAccessExpIndexs" : [
+      "Enabled": true,
+      "GainAccessTier": "TierE",
+      "GainAccessExpIndexs": [
         1
       ]
     },
     {
-      "Enabled" : false,
-      "GainAccessTier" : "TierE",
-      "GainAccessExpIndexs" : [
+      "Enabled": false,
+      "GainAccessTier": "TierE",
+      "GainAccessExpIndexs": [
         0
       ]
-    }	
+    }
   ],
   "SteamUsers": [
     {
+      "Enabled": true,
       "SteamUserID": 76561198122313070,
       "SteamUserName": "eastern"
-    }    
-  ]	
+    }
+  ]
 }

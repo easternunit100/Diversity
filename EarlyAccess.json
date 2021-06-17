@@ -16,9 +16,9 @@
     },
     {
       "Enabled": true,
-      "GainAccessTier": "TierD",
+      "GainAccessTier": "TierC",
       "GainAccessExpIndexs": [
-        0
+        1
       ]
     }
   ],

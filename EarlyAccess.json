@@ -13,6 +13,13 @@
       "GainAccessExpIndexs": [
         0
       ]
+    },
+    {
+      "Enabled": true,
+      "GainAccessTier": "TierD",
+      "GainAccessExpIndexs": [
+        0
+      ]
     }
   ],
   "SteamUsers": [

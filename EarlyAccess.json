@@ -31,7 +31,7 @@
   ],
   "SteamUsers": [
     {
-      "Enabled": false,
+      "Enabled": true,
       "SteamUserID": 76561198122313070,
       "SteamUserName": "eastern"
     }
